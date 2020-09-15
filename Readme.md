@@ -8,6 +8,7 @@ Esse repositório servirá como base para meus estudos. Nele, irei postar uma pe
 ## Categorias
  - ### [NextJS](#)
  - ### [Gluegun](#)
+ - ### [NodeJS](#)
 
 _____
 
@@ -16,6 +17,9 @@ _____
 
 ## Gluegun
  - [Creating command](gluegun/creating-command.md) 
+  
+## NodeJS
+ - [Creating migrations with typeorm](nodejs/creating-migrations-in-typeorm.md)
 
 ___
 

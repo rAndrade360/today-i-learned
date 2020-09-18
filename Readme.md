@@ -17,9 +17,11 @@ _____
 
 ## Gluegun
  - [Creating command](gluegun/creating-command.md) 
+ - [Writing and reading files](gluegun/writing-and-reading-files.md)
   
 ## NodeJS
  - [Creating migrations with typeorm](nodejs/creating-migrations-in-typeorm.md)
+
 
 ___
 
